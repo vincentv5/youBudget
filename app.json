@@ -1,0 +1,12 @@
+{
+  "name": "youBudget",
+  "displayName": "youBudget",
+  "expo": {
+    "name": "youBudget",
+    "slug": "youBudget",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
